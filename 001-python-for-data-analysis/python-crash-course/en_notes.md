@@ -41,7 +41,7 @@ A **variable** is essentially a container used to **store certain data values**.
 
 *   **String Manipulation:**
     *   **Concatenation:** Using the `+` operator to append one string onto another. Example: `phrase + " is cool"`.
-    *   **Indexing:** Accessing an individual character using square brackets `[]`. Indexing starts at **position 0**. Example: `phrase` gets the first character.
+    *   **Indexing:** Accessing an individual character using square brackets `[]`. Indexing starts at **position 0**. Example: `phrase[0]` gets the first character.
     *   **Escape Character (`\`):** Used to insert special characters literally, such as a quotation mark (`\"`) or a new line (`\n`).
     *   **String Functions/Methods:** Functions can be used to modify strings or get information about them.
         *   `.index("substring")`: Returns the starting index of the character or substring.
